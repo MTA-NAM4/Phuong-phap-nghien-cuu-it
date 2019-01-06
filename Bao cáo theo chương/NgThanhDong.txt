@@ -1,0 +1,33 @@
+﻿NGUYỄN THÀNH ĐỒNG - WWEBSITE THỜI TRANG ASP.NET  VÀ AJAX
+I. cơ sở khoa học
+- entity framework
+- asp.net MVC: là? lợi ích? 
+- ajax: là? ưu + nhược điểm
+II. Giới thiệu bài toán
+- Làm gì? 
+- Chức năng chính
+- Mô hình: client - server
+======================================================
+Chương 1 giới thiệu những nội dung gì? 
+- bài toán
+- Phạm vi hệ thống
+- đối tượng sử dụng
+- framework sử dụng
+======================================================
+Kết thúc chương 1 thì dẫn đến điều gì??
+
+=========NHẬN XÉT====================================
+- Tính thực tế của đồ án: (chi tiết hơn bản đề cương ban đầu)
+- Tổng quan những nội dung liên quan đến đề tài
+(sự phân bố của các chương là hợp lý)
+- Tại sao làm đồ án này? tốt hơn như thế nào
+- Bạn làm 1 thứ dựa trên 1 cái đã có thì bạn hiểu nó như thế nào
+- Gạch đầu dòng: sẽ làm gì với công nghệ nào, cái cũ họ đã làm.. làm như nào.. ưu nhược điểm
+==
+- Góc nhìn tổng quan chung chúng ta sẽ làm gì
+- Chi tiết hóa nội dung phần 1 với số liệu thông tin cụ thể, tham chiếu tương ứng tài liệu tham khảo
+=====================================================
+CHUẨN BỊ CHƯƠNG 2: 
+yêu cầu tham chiếu động: reference tới 1 mục
+tĩnh là mở ngoặc vuông đến tài liệu số bn
+báo cáo timeline hằng tuần

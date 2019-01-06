@@ -1,0 +1,7 @@
+﻿Hệ thống đặt bàn ăn tại nhà hàng
+
+- nêu dc rõ: bạn cần làm cái gì và nét gì riêng + đặc biệt trong phần mềm
+cái đích bạn cần đạt được là gì... cụ thể cho riêng đề tài này.. ko dc đúng cho mọi trường hợp, chung chung-> vô nghĩa
+
+yêu cầu hệ thống: yc chức năng + yc phi chức năng
+các yêu cầu rõ ràng

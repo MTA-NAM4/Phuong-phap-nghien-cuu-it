@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/men2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#DDDDDD"
+        android:weightSum="10"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="3"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:background="#ffffff"
+                android:orientation="vertical"
+                android:layout_weight="5">
+                <TextView
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:typeface="monospace"
+                    android:id="@+id/ma"
+                    android:layout_weight="1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp" />
+                <TextView
+                    android:layout_marginLeft="20dp"
+                    android:typeface="monospace"
+                    android:id="@+id/ten"
+                    android:layout_weight="1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"  />
+                <TextView
+                    android:layout_marginLeft="20dp"
+                    android:typeface="monospace"
+                    android:id="@+id/gia"
+                    android:layout_weight="1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"  />
+                <TextView
+                    android:layout_marginLeft="20dp"
+                    android:typeface="monospace"
+                    android:id="@+id/thongtin"
+                    android:layout_weight="1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginTop="5dp"
+                android:layout_weight="5"
+                android:background="#ffffff">
+
+                <com.github.mikephil.charting.charts.PieChart
+                    android:id="@+id/chart1"
+                    android:layout_width="200dp"
+                    android:layout_height="170dp" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="3"
+            android:layout_marginTop="5dp"
+            android:background="#ffffff">
+
+            <com.github.mikephil.charting.charts.BarChart
+                android:id="@+id/chart2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </RelativeLayout>
+
+        <com.baoyz.swipemenulistview.SwipeMenuListView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="3"
+            android:layout_marginTop="5dp"
+            android:background="@color/light_background" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:background="#ffffff"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="5"
+                android:background="#00CC00"
+                android:gravity="center"
+                android:text="Tổng tiền"
+                android:textColor="#FFFFFF"
+                android:textSize="18dp"
+                android:textStyle="bold"
+                android:typeface="monospace" />
+
+            <TextView
+                android:id="@+id/tien"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="5"
+                android:background="#FFCC00"
+                android:gravity="center"
+                android:text="0"
+                android:textColor="#FFFFFF"
+                android:textSize="18dp"
+                android:typeface="monospace" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

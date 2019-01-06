@@ -1,0 +1,32 @@
+﻿	GHI CHÚ BÁO CÁO TÀI LIỆU
+
+- cơ sở khoa học ko chỉ dừng lại ở vị trí vai trò của đề tài
+- trước khi thi 1 tuần có thể nộp lại bản bổ sung
+- gạch đầu dòng cũng được nhưng phải có tên để có từ khóa nghiên cứu, tìm kiếm, 1 kỹ thuật cụ thể
+- 05 tài liệu tham khảo: tên tác giả- tên tài liệu, 1 bài báo cụ thể - nhà xuất bản- năm xuất bản 
+(nếu có link thì bổ sung vào sau tài liệu) (ko thể là 1 đường link trang web)
+- tính thực tiễn: 
+	+ việc nêu ví dụ và đưa ra ưu nhược điểm: chỉ là ưu nhược điểm về tính năng của ứng dụng đó trong phần mềm đó
+	+ cần có nền tảng cơ sở khoa học phía trước để xem nó bắt đầu từ cái gì => mục tiêu nghiên cứu cái vấn đề gì
+	+ ko chỉ có 1 kỹ thuật mà có rất nhiều kỹ thuật => nêu ra 1 kỹ thuật cụ thể và tại sao sử dụng
+	+ vd: trước đây ngta đã sử dụng kỹ thuật abc nhưng ưu+ nhược => chúng ta sẽ cải tiến như thế nào
+	+ phần dc coi là khó hơn: cơ sở nào để nó xuất phát, xuất hiện => cơ sở khoa học
+	+ 
+- Mục tiêu: 
+	+ 
+- Dự kiến mục lục: 
+	+ chương 1: giới thiệu bài toán: nền tảng cơ sở khoa học trước đó: ai làm nên nội dung, 1 số kỹ thuật cụ thể
+và ưu nhược điểm ngắn gọn của từng cái
+	+ 2: phân tích
+	+ 3: thiết kế
+	+ 4: thực thi theo nghĩa xd sản phẩm
+	+ 
+
+- tra cứu và tìm đồ án + luận văn mà học viện đã thực hiện => bắt chước motuyp đã thực hiện
+
+====================================
+cơ sở khoa học: 
+	+ nói rất cơ bản đến những giải thuật sẽ được thực hiện
+	+ nhóm kỹ thuật dc sử dụng
+tính thực tiễn: áp dụng cho nhóm cv dưới trạng thái nào, nhu cầu của việc sử dụng vấn đề này
+phương pháp nghiên cứu
